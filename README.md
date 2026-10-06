@@ -5,7 +5,18 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Type](https://img.shields.io/badge/type-study%20materials-informational)
 
-A comprehensive resource library of professional handbooks covering machine learning, deep learning, and large language models. Designed for structured self-study and quick reference.
+<div align="center">
+
+  <img src="https://img.shields.io/badge/AI-ML%20Study%20Library-0A84FF?style=for-the-badge&logo=github" alt="AI ML Study Library" />
+
+  <h3>Professional learning resources for machine learning, deep learning, and large language models.</h3>
+
+  <p>
+    This repository brings together curated handbooks and reference materials for structured self-study,
+    portfolio building, and technical growth in modern AI disciplines.
+  </p>
+
+</div>
 
 ---
 
@@ -19,14 +30,15 @@ A comprehensive resource library of professional handbooks covering machine lear
 - [Topics Covered](#topics-covered)
 - [How to Use](#how-to-use)
 - [Quick Links](#quick-links)
+- [Contributor & Maintenance](#contributor--maintenance)
 
 ---
 
 ## Overview
 
-This repository serves as a centralized hub for foundational AI and machine learning study materials. Each handbook is professionally curated with in-depth content for learners at various proficiency levels.
+This repository serves as a centralized hub for foundational AI and machine learning study materials. Each handbook is designed to provide clear, practical, and professional coverage of essential concepts for learners and practitioners.
 
-Target audience: students, professionals, and practitioners in AI/ML seeking comprehensive references.
+Target audience: students, researchers, engineers, and professionals exploring AI, ML, and GenAI workflows.
 
 ---
 
@@ -97,11 +109,23 @@ A professional guide to large language models, covering:
 
 ---
 
-## Notes
+## Contributor & Maintenance
 
-- These handbooks are intended as supplemental study resources.
-- They are best used alongside practical projects and hands-on experimentation.
-- The repository is organized to support continuous learning in AI and machine learning.
+### Maintainer
+
+- Krish Patel
+
+### Maintenance Notes
+
+- Repository content is curated for continuous learning in AI and machine learning.
+- Materials are organized to support structured study, revision, and quick access.
+- Additions, updates, and improvements are encouraged to keep the library current and useful.
+
+### Contribution Guidelines
+
+- Keep learning resources clearly categorized and easy to navigate.
+- Preserve file naming consistency for quick discovery.
+- Add concise documentation when introducing new resource materials.
 
 ---
 
