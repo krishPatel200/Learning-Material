@@ -23,6 +23,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
+- [Featured Learning Path](#featured-learning-path)
 - [Resource Library](#resource-library)
   - [Machine Learning](#machine-learning)
   - [Deep Learning](#deep-learning)
@@ -42,6 +43,53 @@ Target audience: students, researchers, engineers, and professionals exploring A
 
 ---
 
+## Featured Learning Path
+
+Follow this structured roadmap to build a comprehensive understanding of AI and machine learning:
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                  FEATURED LEARNING JOURNEY                  │
+└─────────────────────────────────────────────────────────────┘
+
+  📊 PHASE 1: Machine Learning Foundations
+  └─→ ML_Algorithms_Professional_Handbook.pdf
+      • Learn core algorithms and techniques
+      • Understand supervised/unsupervised learning
+      • Build model evaluation skills
+      └─ Duration: 2-4 weeks | Difficulty: Intermediate
+
+         ⬇️
+
+  🧠 PHASE 2: Deep Learning & Neural Networks
+  └─→ Deep_Learning_Professional_Handbook.pdf
+      • Master neural network architectures
+      • Study CNNs, RNNs, and transformers
+      • Learn optimization and training strategies
+      └─ Duration: 3-6 weeks | Difficulty: Advanced
+
+         ⬇️
+
+  🚀 PHASE 3: Large Language Models & GenAI
+  └─→ LLM_Professional_Handbook.pdf
+      • Explore transformer architectures
+      • Study pretraining and fine-tuning
+      • Learn prompt engineering and deployment
+      └─ Duration: 2-4 weeks | Difficulty: Advanced
+
+         ⬇️
+
+  ✅ OUTCOME: Ready for AI/ML projects and interviews
+```
+
+**Recommended Study Approach:**
+1. Begin with ML fundamentals to establish core concepts.
+2. Progress to deep learning for modern neural network knowledge.
+3. Complete with LLM coverage for cutting-edge GenAI understanding.
+4. Revisit sections as needed for reinforcement and deep dives.
+
+---
+
 ## Resource Library
 
 ### Machine Learning
@@ -53,6 +101,8 @@ A practical guide to machine learning algorithms, including:
 - regression and classification methods
 - clustering and dimensionality reduction concepts
 - evaluation metrics and model selection
+
+**Best for:** Building algorithmic foundations and understanding ML workflows.
 
 ---
 
@@ -66,6 +116,8 @@ An in-depth exploration of neural networks and deep learning, including:
 - backpropagation, optimization, and regularization
 - model training best practices and debugging workflows
 
+**Best for:** Mastering modern deep learning techniques and neural architectures.
+
 ---
 
 ### Large Language Models
@@ -77,6 +129,8 @@ A professional guide to large language models, covering:
 - pretraining, fine-tuning, and inference strategies
 - prompt engineering and optimization techniques
 - deployment considerations and real-world use cases
+
+**Best for:** Understanding and building with state-of-the-art generative AI models.
 
 ---
 
@@ -94,10 +148,11 @@ A professional guide to large language models, covering:
 
 ## How to Use
 
-1. Start with the ML handbook for foundational concepts.
-2. Move to deep learning for neural network and training concepts.
-3. Use the LLM handbook for modern transformer and generative AI workflows.
-4. Refer back to the materials during projects, interviews, and self-study.
+1. **Follow the Learning Path:** Start with ML, progress to DL, then advance to LLMs.
+2. **Deep Dive:** Use individual handbooks for targeted concept exploration.
+3. **Project Reference:** Consult during implementation and troubleshooting.
+4. **Interview Prep:** Review key sections across all handbooks for technical interviews.
+5. **Revision:** Return to materials periodically to reinforce understanding.
 
 ---
 
