@@ -1,13 +1,27 @@
-# Learning-Material
+# Learning Material
 
-A curated collection of professional study handbooks and learning materials for modern AI and machine learning topics.
+A curated collection of professional study handbooks and learning resources focused on machine learning, deep learning, and large language models.
 
-## Available Resources
+## Contents
 
-- ML_Algorithms_Professional_Handbook.pdf — Machine learning algorithms and core concepts reference
-- Deep_Learning_Professional_Handbook.pdf — Deep learning principles, architectures, and practical guidance
-- LLM_Professional_Handbook.pdf — Large language model foundations, workflows, and best practices
+- [ML_Algorithms_Professional_Handbook.pdf](./ML_Algorithms_Professional_Handbook.pdf)  
+  Machine Learning Algorithms Professional Handbook
+- [Deep_Learning_Professional_Handbook.pdf](./Deep_Learning_Professional_Handbook.pdf)  
+  Deep Learning Professional Handbook
+- [LLM_Professional_Handbook.pdf](./LLM_Professional_Handbook.pdf)  
+  Large Language Model Professional Handbook
 
-## Repository Purpose
+## Purpose
 
-This repository is intended to keep foundational AI/ML study materials organized in a single place for quick access and reference.
+This repository is designed to keep foundational AI and ML study materials organized in one place for easy access, review, and reference.
+
+## Topics Covered
+
+- Machine learning fundamentals and algorithms
+- Neural networks and deep learning concepts
+- LLM architecture, training, and practical usage
+- Study-ready reference notes for professional learning
+
+## Notes
+
+These handbooks are intended as quick-access learning material and can be used alongside coursework, project work, and self-study.
